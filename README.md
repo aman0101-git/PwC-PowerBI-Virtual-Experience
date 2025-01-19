@@ -3,9 +3,9 @@ Job Simulation on Forage
 <br>
 The tasks given under PwC PowerBI Virtual Experience Program in Forage.
 
-#Task 1: Introduction on PowerBI
+# Task 1: Introduction on PowerBI
 
-#Task 2: Call Centre Trends
+# Task 2: Call Centre Trends
 
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
@@ -23,7 +23,7 @@ Average speed of answer: This KPI measures the average time taken by agents to a
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
 
-#Task 3: Customer Retention
+# Task 3: Customer Retention
 
 Define proper KPIs:
 
@@ -36,7 +36,7 @@ Write a short email to him (the engagement partner) explaining your findings, an
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
 
 
-#Task 4: Diversity & Inclusion
+# Task 4: Diversity & Inclusion
 
 Gender balance in the executive suite:
 
